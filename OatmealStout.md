@@ -1,6 +1,6 @@
 # Oatmeal Stout
 
-## MAlt Bill
+## Grain Bill
 13.00 lbs Simpsons Maris Otter
 1.50 lbs Simpsons Chocolate
 2.00 lbs Oats, Flaked	60 mins	1.037
