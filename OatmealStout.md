@@ -1,4 +1,4 @@
-# Oatmeal Stout
+# Amazing Oatmeal Stout 
 
 ## Grain Bill
 * 13.00 lbs Simpsons Maris Otter
