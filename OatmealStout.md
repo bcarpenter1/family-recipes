@@ -9,3 +9,6 @@
  
 Hops
 2.00 ozs Northern Brewer	60 mins
+
+Yeast
+White Labs Irish Ale
